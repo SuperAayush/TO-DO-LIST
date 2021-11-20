@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+.chai{
+    width:1440px;
+    height:720px;
+    position:absolute;
+}
+.container1{
+    width: 100%;
+    height: 710px;
+}
+.heading1{
+    position: absolute;
+    margin-left: 20%;
+    margin-top: 15%;
+    font-family: 'Satisfy', cursive;
+}
+.login_button{
+    margin-left: 25%;
+    margin-top: 5%;
+    width: 35%;
+}
+.organize{
+    font-size: 4rem;
+}

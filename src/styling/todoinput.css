@@ -1,0 +1,25 @@
+.input_list{
+    margin-left: 20%;
+    margin-top: 2%;
+    height:40px;
+    border-radius: 5px;
+    border-color: aqua;
+    width:220px;
+}
+.input_button{
+    margin-left:2%;
+    height:43px;
+    background-color:black;
+    border-color: black;
+}
+.input_button:hover{
+    background-color:white;
+    color: black;
+    border-color: aqua;
+}
+
+.list{
+    border-radius: 5px;
+    border-color:black !important;
+    border-style: solid !important
+}

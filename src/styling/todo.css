@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500&display=swap');
+.content{
+    background-color: aqua;
+    height:710px;
+    margin-top: 0;
+}
+
+.list{
+    position: absolute;
+    margin-top:10%;
+    background-color: white;
+    width:30%;
+    margin-left: 33%;
+}
+
+ol{
+    margin-top: 3%;
+    margin-left:15%;
+    color: #fff;
+    background-color: #036;
+    width:300px;
+    border-radius: 5px;
+}
+
+li{
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.title{
+    position: absolute;
+    margin-top:4%;
+    margin-left: 39%;
+    font-family: 'Cinzel', serif;
+    font-size: 3rem;
+}
